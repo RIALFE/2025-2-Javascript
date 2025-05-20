@@ -9,3 +9,10 @@
 // Cuenta cuántos tienen 18 años o más.
 //
 // Muestra el total.
+
+const { ask } = require('../helpers/input');
+
+async function main() {
+    
+}
+main();
